@@ -8,6 +8,5 @@ function god(){
 }
 <button onClick={god}>kir</button>
 
-
 const root = ReactDOM.createRoot(document.getElementById("root")) 
 root.render(<App />)
