@@ -52,6 +52,7 @@ body {
   width: var(--button-size);
   height: var(--button-size);
   border-radius: 50%;
+  
   padding: 5px;
   margin: 2px;
   display: flex;
